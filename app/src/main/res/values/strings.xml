@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lapogoda</string>
+    <string name="logo">LaPogoda</string>
+    <string name="hintUser_city">Enter your city...</string>
+    <string name="main_button">GO</string>
+    <string name="no_user_input">Enter your city...</string>
+
+</resources>
